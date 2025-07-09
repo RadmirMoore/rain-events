@@ -1,21 +1,14 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2822
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-
-\f0\fs24 \cf0 BEGIN:VCALENDAR\
-VERSION:2.0\
-PRODID:-//RainStudioCity//Events//EN\
-BEGIN:VEVENT\
-UID:latin-sat@rain\
-DTSTAMP:20250708T030000Z\
-DTSTART;TZID=America/Los_Angeles:20250712T210000\
-DTEND;TZID=America/Los_Angeles:20250713T013000\
-RRULE:FREQ=WEEKLY;BYDAY=SA\
-SUMMARY:Latin Saturdays at Rain Studio City\
-LOCATION:Rain Studio City, 12215 Ventura Blvd UNIT 211, Studio City, CA 91604\
-DESCRIPTION:Reggaet\'f3n \'95 Latin Hits \'95 Top40\'92s \'95 Hip Hop \'95 EDM 21+\
-END:VEVENT\
-END:VCALENDAR}
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//RainStudioCity//Events//EN
+BEGIN:VEVENT
+UID:latin-sat@rain
+DTSTAMP:20250708T030000Z
+DTSTART;TZID=America/Los_Angeles:20250712T210000
+DTEND;TZID=America/Los_Angeles:20250713T013000
+RRULE:FREQ=WEEKLY;BYDAY=SA
+SUMMARY:Latin Saturdays at Rain Studio City
+LOCATION:Rain Studio City, 12215 Ventura Blvd UNIT 211, Studio City, CA 91604
+DESCRIPTION:Reggaetón • Latin Hits • Top40’s • Hip Hop • EDM 21+
+END:VEVENT
+END:VCALENDAR
