@@ -9,6 +9,7 @@ DTEND;TZID=America/Los_Angeles:20250711T020000
 RRULE:FREQ=WEEKLY;BYDAY=TH
 SUMMARY:Salsa & Bachata Thursdays at Rain Studio City
 LOCATION:Rain Studio City, 12215 Ventura Blvd UNIT 211, Studio City, CA 91604
+URL:https://rainstudiocity.com
 DESCRIPTION:Class 8-10 PM • DJ set until 2 AM • 21+
 ENTRANCE: $15 class + dance / $10 social dancing only
 END:VEVENT
