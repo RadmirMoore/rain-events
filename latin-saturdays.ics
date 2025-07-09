@@ -9,6 +9,7 @@ DTEND;TZID=America/Los_Angeles:20250713T013000
 RRULE:FREQ=WEEKLY;BYDAY=SA
 SUMMARY:Latin Saturdays at Rain Studio City
 LOCATION:Rain Studio City, 12215 Ventura Blvd UNIT 211, Studio City, CA 91604
+URL:https://rainstudiocity.com
 DESCRIPTION:Reggaetón • Latin Hits • Top40’s • Hip Hop • EDM 21+
 END:VEVENT
 END:VCALENDAR
